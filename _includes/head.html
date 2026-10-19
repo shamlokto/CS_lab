@@ -3,7 +3,7 @@
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#0f141c">
 {% seo title=false %}
-<title>{% if page.title and page.url != "/" %}{{ page.title | strip_html }} · {% endif %}{{ site.title }}{% if page.url == "/" %} · Bacterial cell envelope, NUS{% endif %}</title>
+{% if page.collection == "people" %}{% assign page_title = page.name %}{% else %}{% assign page_title = page.title %}{% endif %}<title>{% if page_title and page.url != "/" %}{{ page_title | strip_html }} · {% endif %}{{ site.title }}{% if page.url == "/" %} · Bacterial cell envelope, NUS{% endif %}</title>
 <link rel="icon" href="{{ '/assets/img/brand/favicon.svg' | relative_url }}" type="image/svg+xml">
 <link rel="alternate icon" href="{{ '/favicon.ico' | relative_url }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">

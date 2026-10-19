@@ -1,7 +1,7 @@
 ---
 name: "Chris Sham Lok-To"
 role: "Principal Investigator"
-title: "Associate Professor"
+position: "Associate Professor"
 scholar: "https://scholar.google.com/citations?user=mriC-PcAAAAJ&hl=en"
 order: 1
 photo: "/assets/img/people/chris-sham.webp"
