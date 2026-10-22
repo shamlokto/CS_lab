@@ -19,9 +19,11 @@ address:
 webmaster_verifications:
   google: 7NSYtSSbNBwtUEwLO0xiJFZG8CC-acyc50vRG8x1m4o
 
-# GitHub Pages sets `baseurl` automatically for project sites. Set it here only
-# when serving from a sub-path somewhere else, e.g. baseurl: /CS_lab
-# baseurl: ""
+# Where the site is served. Must match the repository name: GitHub Pages
+# serves project sites at https://<owner>.github.io/<repo>/. If the repository
+# is renamed again, update `baseurl` to the new name.
+url: https://shamlokto.github.io
+baseurl: /CS_lab
 
 collections:
   people:

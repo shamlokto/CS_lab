@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Check that every internal link and image in a built site resolves.
 
-Usage: python3 scripts/check_links.py _site [--baseurl /CS_lab_clone]
+Usage: python3 scripts/check_links.py _site [--baseurl /CS_lab]
 
 Without --baseurl, the base path is read from the stylesheet link in
 index.html, so the check works whatever path the site is built for.
