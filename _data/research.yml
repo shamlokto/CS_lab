@@ -83,6 +83,8 @@ highlights:
     year: 2026
     theme: envelope
     url: https://doi.org/10.1128/mbio.01075-26
+    image: /assets/img/research/walrk.webp
+    alt: "Working model: in wild-type cells CpsA attaches capsule and LytR attaches wall teichoic acid to peptidoglycan, with WalK sensing reduced WTA ligation; in the cpsA walK double mutant, LytR is overloaded, WTA is reduced and the cell dies"
     body: >-
       A genetic screen uncovered a strong negative interaction between
       <i>cpsA</i> and <i>walK</i>. Without CpsA, capsule polymers compete
