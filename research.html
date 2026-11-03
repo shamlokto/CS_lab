@@ -42,7 +42,7 @@ description: Capsule enzyme specificity, envelope assembly, glycan structure and
     <div class="grid grid-2">
       {% for h in site.data.research.highlights %}
       <article class="card reveal">
-        <div class="card-media contain"><img src="{{ h.image | relative_url }}" alt="{{ h.alt }}" loading="lazy"></div>
+        {% if h.image %}<div class="card-media contain"><img src="{{ h.image | relative_url }}" alt="{{ h.alt }}" loading="lazy"></div>{% endif %}
         <div class="card-body">
           <div><span class="chip warm">{{ h.journal }} · {{ h.year }}</span></div>
           <h3>{{ h.title }}</h3>

@@ -7,6 +7,15 @@
 # listed in `lab_authors` below.
 
 lab:
+  - title: Genome-wide mapping of genetic suppression events in <i>Streptococcus pneumoniae</i>
+    authors: Ng CJW, Zik JJ, Li Y, Price MN, Chen JH, Guan XL, …, Sham LT
+    journal: Nature Communications
+    year: 2026
+    url: https://doi.org/10.1038/s41467-026-78840-y
+    doi: 10.1038/s41467-026-78840-y
+    topics: [systems]
+    featured: true
+
   - title: The WalRK two-component system in <i>Streptococcus pneumoniae</i> ensures robustness of secondary wall polymer attachment
     authors: Justin J. Zik, Zeyu Fu, Morgan N. Price, Yujie Li, Yuan Qiao, Adam P. Arkin, Adam M. Deutschbauer, Josue Flores-Kim, Lok-To Sham
     journal: mBio
@@ -15,6 +24,7 @@ lab:
     url: https://doi.org/10.1128/mbio.01075-26
     doi: 10.1128/mbio.01075-26
     topics: [envelope, systems]
+    featured: true
 
   - title: Investigation of the essential role of capsular polysaccharide in serotype 1 <i>Streptococcus pneumoniae</i>
     authors: Terra VS, Nasher F, Ramos-Sevillano E, Tan SY, Smith AA, Sham LT, Brown JS, Wren BW
@@ -43,7 +53,6 @@ lab:
     year: 2025
     url: https://pubmed.ncbi.nlm.nih.gov/40556784/
     topics: [glyco, review]
-    featured: true
 
   - title: Massively parallel barcode sequencing revealed the interchangeability of capsule transporters in <i>Streptococcus pneumoniae</i>
     authors: Wan-Zhen Chua, Rachel Lyn Ee Wong, Ye-Yu Chun, Nicole Ng Chyi Shien, Tong Su, Matthias Maiwald, Kean Lee Chew, Raymond Tzer-Pin Lin, Alyson M. Hockenberry, Min Luo, Lok-To Sham
@@ -52,7 +61,6 @@ lab:
     year: 2025
     url: https://pubmed.ncbi.nlm.nih.gov/39854462/
     topics: [specificity, systems]
-    featured: true
     image: /assets/img/research/flippase-barcode.webp
 
   - title: Rewiring the pneumococcal capsule pathway for investigating glycosyltransferase specificity and genetic glycoengineering
@@ -188,6 +196,10 @@ topics:
 # Names (as they appear in author lists) to highlight as lab members.
 lab_authors:
   - Lok-To Sham
+  - Ng CJW
+  - Zik JJ
+  - Li Y
+  - Chen JH
   - Zeyu Fu
   - Tan SY
   - Sham LT
