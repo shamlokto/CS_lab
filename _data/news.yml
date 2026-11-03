@@ -1,6 +1,16 @@
 # Lab news, newest first. `date` can be a year ("2025") or "2025-09".
 # Keep each item to one or two sentences; `link` is optional.
 - date: "2026"
+  tag: Paper
+  title: Sup-seq published in <i>Nature Communications</i>
+  body: Clement Ng, Justin Zik and colleagues map genetic suppression genome-wide in <i>S. pneumoniae</i>, finding 53 suppressors of seven essential genes.
+  link: https://doi.org/10.1038/s41467-026-78840-y
+- date: "2026"
+  tag: Paper
+  title: WalRK keeps secondary wall polymer attachment robust
+  body: Justin Zik, Zeyu Fu and colleagues show in <i>mBio</i> how WalRK senses the cell wall stress caused when capsule and wall teichoic acids compete for attachment.
+  link: https://doi.org/10.1128/mbio.01075-26
+- date: "2026"
   tag: Software
   title: Dual Tn-seq Explorer released as open source
   body: An interactive app for browsing about 895,000 gene-pair scores from the dual Tn-seq dataset, with GI-profile correlation and SVG export.
