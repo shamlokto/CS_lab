@@ -27,6 +27,7 @@ lab:
     doi: 10.1128/mbio.01075-26
     topics: [envelope, systems]
     featured: true
+    image: /assets/img/research/walrk.webp
 
   - title: Investigation of the essential role of capsular polysaccharide in serotype 1 <i>Streptococcus pneumoniae</i>
     authors: Terra VS, Nasher F, Ramos-Sevillano E, Tan SY, Smith AA, Sham LT, Brown JS, Wren BW
