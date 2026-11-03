@@ -64,14 +64,19 @@ highlights:
     year: 2026
     theme: systems
     url: https://doi.org/10.1038/s41467-026-78840-y
+    image: /assets/img/research/sup-seq.webp
+    alt: "Sup-seq rationale: inactivating an essential gene in a barcoded transposon library, then in a backcrossed library, enriches suppressors caused by transposon insertions"
     body: >-
       Suppressor analysis has long been a powerful way to work out what
-      essential genes do. Sup-seq brings it to genome scale: a
-      transposon-sequencing method with random DNA barcodes that detects
-      genetic suppression across the whole genome. Applied to the
-      pneumococcus, it identified 53 genetic suppressors of seven essential
-      genes, revealing new links between metabolism, ribosome assembly and
-      membrane lipid synthesis.
+      essential genes do. Sup-seq brings it to genome scale: a single
+      randomly barcoded transposon library, reusable to screen for
+      suppressors of any essential gene, in which the insertions act through
+      gene inactivation, overexpression or downregulation depending on where
+      and which way they land. Applied to seven essential genes in the
+      pneumococcus, it found 53 suppressors, including a new transcriptional
+      regulator of chaperone and ribosomal protein expression, a bypass of
+      the requirement for acetate kinase, and an unexpected link between
+      phospholipid synthesis and potassium transport.
 
   - title: The WalRK two-component system in <i>Streptococcus pneumoniae</i> ensures robustness of secondary wall polymer attachment
     journal: mBio
