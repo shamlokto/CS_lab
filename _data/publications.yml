@@ -8,13 +8,15 @@
 
 lab:
   - title: Genome-wide mapping of genetic suppression events in <i>Streptococcus pneumoniae</i>
-    authors: Ng CJW, Zik JJ, Li Y, Price MN, Chen JH, Guan XL, …, Sham LT
+    authors: Clement Jun Wei Ng, Justin J. Zik, Yifan Li, Morgan Price, Jia-Hui Chen, Xueli Guan, Adam P. Arkin, Adam M. Deutschbauer, Lok-To Sham
     journal: Nature Communications
+    details: "Article in Press"
     year: 2026
     url: https://doi.org/10.1038/s41467-026-78840-y
     doi: 10.1038/s41467-026-78840-y
     topics: [systems]
     featured: true
+    image: /assets/img/research/sup-seq.webp
 
   - title: The WalRK two-component system in <i>Streptococcus pneumoniae</i> ensures robustness of secondary wall polymer attachment
     authors: Justin J. Zik, Zeyu Fu, Morgan N. Price, Yujie Li, Yuan Qiao, Adam P. Arkin, Adam M. Deutschbauer, Josue Flores-Kim, Lok-To Sham
@@ -196,10 +198,8 @@ topics:
 # Names (as they appear in author lists) to highlight as lab members.
 lab_authors:
   - Lok-To Sham
-  - Ng CJW
-  - Zik JJ
-  - Li Y
-  - Chen JH
+  - Clement Jun Wei Ng
+  - Yifan Li
   - Zeyu Fu
   - Tan SY
   - Sham LT
